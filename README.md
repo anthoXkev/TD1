@@ -1,6 +1,9 @@
 # KIKLEO : L'AVENIR DE LA RESTAURATION COLLECTIVE
 
+![alt txt](https://kikleo.com/wp-content/uploads/2023/09/logo-kikleo.svg)
+
 ### Qu'est-ce que *Kikleo* ?
+
 
 [*Kikleo*](https://kikleo.com/) est une start-up créée par [**Martin d’Agay**](https://fr.linkedin.com/in/martin-d-agay-516019137) et [**Vincent Garcia**](https://fr.linkedin.com/in/vincent-garcia-ds) en *2019* comptant aujourd’hui 16 employés. 
 Elle a pour but de lutter contre le gaspillage alimentaire en mettant en place de multiples actions comme **l'amélioration des qualités d’offres des restaurants** ou même **l’augmentation de la satisfaction des clients**. 
